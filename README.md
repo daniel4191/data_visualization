@@ -25,9 +25,9 @@ json은 아직 명확히 다룰줄 몰랐고, 사실상 시간이 지난 후 해
 ## 4.포트폴리오 스크린샷
 <hr>
 <br>
-![스크린샷 2022-12-16 오전 11 13 27](https://user-images.githubusercontent.com/93903127/208009033-d68b9120-87f0-49d8-8d18-ec5c081e56ca.png)
-![스크린샷 2022-12-16 오전 11 13 47](https://user-images.githubusercontent.com/93903127/208009056-11dc40a8-a810-4842-bc11-59a78c62408e.png)
-![스크린샷 2022-12-16 오전 11 14 05](https://user-images.githubusercontent.com/93903127/208009064-5002d213-bf7e-4311-bf16-3dd3ae18f412.png)
+<img src="https://user-images.githubusercontent.com/93903127/208009033-d68b9120-87f0-49d8-8d18-ec5c081e56ca.png" style="width: 500px;" alt="screen_shot1">
+<img src="https://user-images.githubusercontent.com/93903127/208009056-11dc40a8-a810-4842-bc11-59a78c62408e.png" style="width: 500px;" alt="screen_shot2">
+<img src="https://user-images.githubusercontent.com/93903127/208009064-5002d213-bf7e-4311-bf16-3dd3ae18f412.png" style="width: 500px;" alt="screen_shot3">
 <hr>
 완성은 2022년 8월 15일즈음에 완료하여 블로그에 업로드하였으나, 깃에 옮기는 것이 늦어짐
 <br>
